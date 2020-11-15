@@ -6,6 +6,6 @@
 
 - This project is a text editor (like Notepad) which is developed in Java Swing technology 
 - This text editor can do following functions:
- - Typing text.
- - Change font 
- - Some similar function like Notepad.
+  - Typing text.
+  - Change font 
+  - Some similar function like Notepad.
