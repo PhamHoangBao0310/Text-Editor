@@ -8,4 +8,4 @@
 - This text editor can do following functions:
   - Typing text.
   - Change font 
-  - Some similar function like Notepad.
+  - Some similar functions like Notepad.
